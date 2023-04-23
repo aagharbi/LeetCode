@@ -1,2 +1,2 @@
 # LeetCode
-Practicing LeetCode problems and posting them here :)
+Practicing LeetCode problems in C++ and posting them here :)
